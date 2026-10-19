@@ -1,0 +1,22 @@
+<article class="post">
+  <span class="slot %%SLOT_CLASS%%">%%SLOT%% edition</span>
+  <h2>%%TITLE%%</h2>
+  <p class="meta">%%DATE_LONG%% &middot; Watch on <a href="https://www.youtube.com/watch?v=%%YOUTUBE_ID%%">YouTube</a></p>
+  <div class="video">
+    <iframe src="https://www.youtube-nocookie.com/embed/%%YOUTUBE_ID%%" title="%%TITLE%%" loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+%%BODY%%
+  <div class="company">
+    <h3>Today's American company</h3>
+    <p class="cname">%%COMPANY_NAME%%</p>
+    %%COMPANY_TEXT%%
+  </div>
+  <div class="sources">
+    <h3>Sources</h3>
+    <ul>
+%%SOURCES%%
+    </ul>
+  </div>
+</article>
+<p class="readmore"><a href="%%ROOT%%index.html">&larr; All posts</a></p>
