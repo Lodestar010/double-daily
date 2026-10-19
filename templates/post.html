@@ -3,8 +3,10 @@
   <h2>%%TITLE%%</h2>
   <p class="meta">%%DATE_LONG%% &middot; Watch on <a href="https://www.youtube.com/watch?v=%%YOUTUBE_ID%%">YouTube</a></p>
   <div class="video">
-    <iframe src="https://www.youtube-nocookie.com/embed/%%YOUTUBE_ID%%" title="%%TITLE%%" loading="lazy"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="facade" data-ytid="%%YOUTUBE_ID%%" role="button" tabindex="0" aria-label="Play video: %%TITLE%%">
+      <img src="https://i.ytimg.com/vi/%%YOUTUBE_ID%%/hqdefault.jpg" alt="%%TITLE%%" loading="lazy">
+      <span class="playbtn">&#9654;</span>
+    </div>
   </div>
 %%BODY%%
   <div class="company">
