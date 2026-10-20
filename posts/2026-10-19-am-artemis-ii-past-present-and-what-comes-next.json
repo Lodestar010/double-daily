@@ -1,0 +1,39 @@
+{
+  "title": "Artemis II — Past, Present, and What Comes Next",
+  "youtube_id": "6L7TzRs8MVI",
+  "slot": "AM",
+  "date": "2026-10-19",
+  "summary": "NASA just gave everyone the Moon: 800 gigabytes of Artemis II science, five flashes on the far side, and the confirmed road to a Moon Base — plus today's American company: Intuitive Machines.",
+  "body": "On October 7, 2026, NASA published the full Artemis II lunar science archive in its Planetary Data System: more than 800 gigabytes, over 11,000 full-resolution images and videos, and eight and a half hours of crew audio from April's crewed flyby — the first planetary science dataset captured primarily by humans in more than fifty years.\n\nTHE PAST. Apollo 17 brought the last crew home from the Moon in December 1972, and human lunar flight stopped for over fifty years. Artemis I flew the new Space Launch System rocket and Orion capsule uncrewed in 2022. Artemis II launched on April 1, 2026, carrying Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen around the far side of the Moon — within about 4,067 miles of the surface — and home again on April 10.\n\nTHE PRESENT. The archive's headline finding is five extremely faint flashes the crew saw on the far side, confirmed by NASA's science team as small rocks striking the surface — likely the faintest impact flashes ever seen with the unaided eye. The crew also described the Moon's subtle colors, which NASA's preliminary report ties to titanium-rich volcanic rock, iron variation, and volcanic glass. The data is public, piece by piece, and already informing Artemis III planning.\n\nTHE FUTURE — confirmed only. The first element of NASA's Moon Base launches this December, ahead of the original schedule. Artemis III flies a docking rehearsal in Earth orbit in 2027, and the first Artemis surface landing is now planned for Artemis IV in early 2028.\n\nIN THE BIG SHOWS. Huberman Lab released a new episode on October 19 with Dr. Jared Diamond — what makes a great leader, why charisma is only one path among many, and how chance shapes who ends up in charge — summarized in the video in our own words.",
+  "company": {
+    "name": "Intuitive Machines",
+    "text": "Founded in 2013 in Houston, Texas, by Stephen Altemus, Kam Ghaffarian, and Tim Crain. Intuitive Machines builds the Nova-C class of lunar landers and flies them under NASA's Commercial Lunar Payload Services program. Its first lander, Odysseus, touched down near the Moon's south polar region in February 2024 — the first American landing since Apollo 17 and the first ever by a commercial company — coming to rest on its side, and its second lander, Athena, tipped over after landing in March 2025. The company has more NASA landings under contract and has expanded into lunar communications and data services. Company facts only: no prices, no predictions."
+  },
+  "sources": [
+    {
+      "name": "NASA — Artemis II lunar science data release (Oct 7, 2026)",
+      "url": "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/"
+    },
+    {
+      "name": "Scientific American — Artemis II images boost NASA's moon base plans (Oct 8, 2026)",
+      "url": "https://www.scientificamerican.com/article/artemis-ii-images-boost-nasas-moon-base-plans/"
+    },
+    {
+      "name": "Payload Space — NASA nuclear pact and Moon Base schedule",
+      "url": "https://payloadspace.com/nasa-signs-space-nuclear-pact-says-moon-base-is-ahead-of-schedule/"
+    },
+    {
+      "name": "Huberman Lab — What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond (Oct 19, 2026)",
+      "url": "https://www.hubermanlab.com/all-episodes"
+    },
+    {
+      "name": "Music: Bach, Goldberg Variations Var. 3 — Kimiko Ishizaka (CC0), Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_J.S._Bach-_-Open-_Goldberg_Variations,_BWV_988_(Piano)_-_04_Variatio_3_a_1_Clav._Canone_all_Unisuono.mp3"
+    },
+    {
+      "name": "Music: Bach, Goldberg Variations Var. 9 — Kimiko Ishizaka (CC0), Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_J.S._Bach-_-Open-_Goldberg_Variations,_BWV_988_(Piano)_-_10_Variatio_9_a_1_Clav._Canone_alla_Terza.mp3"
+    }
+  ],
+  "slug": "2026-10-19-am-artemis-ii-past-present-and-what-comes-next"
+}
