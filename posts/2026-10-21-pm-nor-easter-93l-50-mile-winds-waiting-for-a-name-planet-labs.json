@@ -1,0 +1,50 @@
+{
+  "title": "Nor'easter 93L: 50-Mile Winds, Waiting for a Name + Planet Labs + Alpenglow + Joe Rogan",
+  "youtube_id": "Z9l84aLVwlA",
+  "slot": "PM",
+  "date": "2026-10-21",
+  "summary": "A nor'easter off Virginia already has 50-mile-an-hour winds and no name — the only thing in the way is a leftover cold front dissolving over the Gulf Stream — plus today's American company: Planet Labs, a confirmed Solana Alpenglow activation, and The Joe Rogan Experience with Bill Thompson.",
+  "body": "Off the Virginia coast tonight sits a storm with fifty-mile-an-hour winds, already stronger than a tropical storm needs to be, and it still has no name. The reason is a leftover cold front.\n\nTHE PAST. A nor'easter is a storm along the East Coast of North America, named for the winds that reach the coast from the northeast. The National Weather Service says these storms can form in any season, but they are most frequent and most violent between September and April. Their fuel is a contrast: the polar jet stream drags cold Arctic air south over the land, while warm air pushes north over the Atlantic and the warm Gulf Stream keeps the coastal water mild. That is the opposite engine from a hurricane, which runs on uniformly warm ocean water alone. The famous list runs from the Blizzard of 1888 through the Ash Wednesday storm of 1962, the New England Blizzard of 1978 and the March 1993 Superstorm. And once, a nor'easter changed engines entirely: in late October 1991 the Perfect Storm absorbed Hurricane Grace, drifted over warmer water, shed its cold core, built a warm one, and on November 1 was found to be a Category 1 hurricane — deliberately left unnamed by the Hurricane Center, and reaching Nova Scotia as a tropical storm on November 2.\n\nTHE PRESENT. The National Hurricane Center has tagged tonight's system Invest 93L. It sits about 350 miles offshore of Virginia Beach with top winds estimated at 50 miles an hour — already above the 39-mile-an-hour naming line. Its slow movement is the coastal problem: a channel of strong northeast winds has pushed ocean water onto and over the coast from North Carolina to New Jersey, especially at high tide, through multiple tide cycles since Monday, with flood alerts from North Carolina to South Jersey. Parked over the unusually warm Gulf Stream, its thunderstorms are building near its center and its core looks much like a tropical storm's; what remains is the remnant of its front, slowly dissolving. The Hurricane Center gives it a medium 40 percent chance through 48 hours, and 40 percent through 7 days, of completing the switch — at which point, at 50 miles an hour, it would become Tropical or Subtropical Storm Josephine on the spot. The Center's bottom line: regardless of the system's status, high winds, coastal flooding and dangerous surf are expected along portions of the East Coast during the next few days.\n\nTHE FUTURE — forecast only. Today and tomorrow are the naming window, while the system moves slowly north-northeastward over the Gulf Stream. Late Thursday the onshore winds let up and the multi-day run of backed-up high tides ends. On Friday the system, tropical or not, accelerates northeastward over colder water, where conditions turn unfavourable for further development, and may brush Atlantic Canada as a strong storm. Whether 93L completes the same cold-core to warm-core conversion the 1991 storm completed turns on one thing: whether its front fully dissolves while the thunderstorms hold at its center. As of the afternoon of October 21, no name had been announced.\n\nIN THE WEB3 WATCH. Solana's Alpenglow upgrade is now live. Shortly before 2 p.m. UTC on October 21, at slot 459,653,000, Solana's validators retired TowerBFT, the voting system used since 2020, and switched to Votor, which collects validator votes directly and bundles them into certificates instead of recording each vote on-chain. Anza, the team that built it, says transactions now become irreversible in about 150 milliseconds, down from 12.8 seconds — the announced figure, with sustained measurement still ahead. Wallets, apps and fees are unchanged. A second piece, Rotor, has no date yet. Not financial advice.\n\nIN THE BIG SHOWS. The Joe Rogan Experience, episode 2569 with Bill Thompson, reviewed from the full episode. Thompson, a retired Army chief warrant officer who runs the Spartan Forge hunting app, describes his military shot process, a survival-training night beside people who left no footprints, dream journaling and Jung, and his prediction that AI's future is open models running locally in the home, like a water heater.",
+  "company": {
+    "name": "Planet Labs",
+    "text": "Founded in 2010 in San Francisco by three former NASA scientists — Chris Boshuizen, Will Marshall and Robbie Schingler — who started by building prototype satellites in a garage out of phone-class parts. Their insight was to fly many small satellites instead of a few giant ones: Planet's Dove satellites, each about the size of a shoebox, travel in flocks and scan the planet's landmass almost daily, while its larger Pelican satellites can be pointed at one place for a close-up. Its newest line, Tanager, sees in more than 400 colours of light, fine enough to spot methane leaking from a single facility. This week NASA gave Planet a new evaluation order: the agency will test more than 250,000 square kilometres of Tanager data for Earth science, including faster response to wildfires and floods, after the second Tanager satellite launched on October 1 and sent back its first picture a week later. Company facts only: no prices, no predictions."
+  },
+  "sources": [
+    {
+      "name": "National Weather Service — What is a Nor'easter?",
+      "url": "https://www.weather.gov/safety/winter-noreaster"
+    },
+    {
+      "name": "Fox Weather — Bryan Norcross hurricane analysis, Oct 21, 2026",
+      "url": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-october-21-2026"
+    },
+    {
+      "name": "National Hurricane Center outlook via USA Today Network (Naples News), Oct 21, 2026",
+      "url": "https://www.naplesnews.com/story/weather/hurricanes/2026/10/21/invest-93l-update-spaghetti-models-florida-forecast-radar/92358317007/"
+    },
+    {
+      "name": "Planet Labs — NASA CSDA evaluation task order (Business Wire, Oct 21, 2026)",
+      "url": "https://www.businesswire.com/news/home/20261021824897/en/"
+    },
+    {
+      "name": "Anza — Alpenglow is live on Solana (PR Newswire, Oct 21, 2026)",
+      "url": "https://www.prnewswire.com/news-releases/alpenglow-is-live-on-solana-the-worlds-fastest-finality-on-a-global-network-302915579.html"
+    },
+    {
+      "name": "Unchained — Solana activates Alpenglow on mainnet (on-chain verification)",
+      "url": "https://unchainedcrypto.com/solana-activates-alpenglow-on-mainnet-swapping-out-towerbft-for-a-faster-consensus-engine/"
+    },
+    {
+      "name": "The Joe Rogan Experience — episode 2569, Bill Thompson (Oct 21, 2026; full episode reviewed)"
+    },
+    {
+      "name": "Music: Bach, Goldberg Variations Var. 21 — Kimiko Ishizaka (CC0), Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Kimiko_Ishizaka_-_Open_Goldberg_Variations"
+    },
+    {
+      "name": "Music: Bach, Goldberg Variations Var. 24 — Kimiko Ishizaka (CC0), Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Kimiko_Ishizaka_-_Open_Goldberg_Variations"
+    }
+  ],
+  "slug": "2026-10-21-pm-nor-easter-93l-50-mile-winds-waiting-for-a-name-planet-labs"
+}
