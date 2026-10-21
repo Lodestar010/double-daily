@@ -1,0 +1,50 @@
+{
+  "body": "No spacecraft has ever landed on Phobos, the larger moon of Mars, and no sample has ever been brought back from anywhere in the Mars system. This week, Japan launched a spacecraft built to do both.\n\nTHE PAST. In August 1877, American astronomer Asaph Hall, searching deliberately for moons of Mars at the U.S. Naval Observatory in Washington, D.C., found two: Deimos first, then Phobos on August 17. Their names come from Greek myth — Phobos, fear, and Deimos, terror, sons of Ares, the god of war. Phobos is an irregular, potato-shaped body about 27 by 22 by 18 kilometres across, scarred by the Stickney crater, some 9.7 kilometres wide. It orbits only about 6,000 kilometres above the Martian surface — closer to its planet than any other known moon — circling Mars in just 7 hours 39 minutes, faster than Mars itself rotates, and it is slowly falling: spiralling inward about 1.8 metres every hundred years, it will within roughly 50 million years either break apart into a ring or meet the planet. Where it came from is still unsettled — a captured asteroid, or debris thrown into orbit by a giant impact on the young Mars. Only a piece of the moon itself, tested in a laboratory, can decide. Getting that piece has defeated everyone: the Soviet Union's Phobos 1 and Phobos 2 were both lost in 1988 before either could land, and Russia's Phobos-Grunt sample-return mission never left Earth orbit in 2011. Japan, though, has done this kind of mission twice — Hayabusa returned the first asteroid sample, from Itokawa, in 2010, and Hayabusa2 repeated the feat at Ryugu in 2020.\n\nTHE PRESENT. The mission is MMX — Martian Moons eXploration. At 4:41 a.m. Japan time on October 20, an H3 rocket in its most powerful configuration lifted off from the Tanegashima Space Center on the H3's first interplanetary flight, and about 71 minutes later the spacecraft separated successfully onto its planned course for Mars — a cruise of roughly ten months. MMX weighs about four and a half tonnes at launch and is built in three parts: a propulsion module for the cruise, an exploration module on four landing legs that does the work at Phobos, and a return module that alone flies home carrying the sample capsule. Led by JAXA, it carries NASA instruments, European Space Agency communications support, and a rover built by France's CNES and Germany's DLR. For sampling it carries two tools — a coring sampler on a robotic arm reaching about two centimetres below the surface, and a NASA-provided pneumatic sampler that uses a burst of nitrogen gas to lift grains into a collector. The rover, IDEFIX — named for the dog in the Asterix comics — weighs 25 kilograms on Earth; on Phobos it will weigh the equivalent of about fifteen grams, moves at roughly a millimetre per second, and will scout the surface for about 100 days ahead of the main landings.\n\nTHE FUTURE — confirmed only. MMX reaches Mars in August 2027 and settles into a quasi-satellite orbit that September, mapping Phobos and choosing landing sites. IDEFIX deploys in early 2029, the first rover ever to operate on a moon of Mars. The main spacecraft then makes two soft landings, in 2029–2030, spending roughly two to three hours on the surface each time and gathering at least ten grams of material from two different sites. Departure from the Mars system is set for November 2030, and in 2031 the heat-shielded capsule, about 60 centimetres across, comes down in Australia's Woomera Prohibited Area — the same recovery zone Hayabusa2 used — with the first sample ever returned from the Mars system.\n\nIN THE BIG SHOWS. The Joe Rogan Experience, episode 2568 with ultra-endurance swimmer Ross Edgley, reviewed from the full episode. Edgley has swum 1,000 miles around Iceland and holds the record for the longest non-stop river swim — 510 kilometres down the Yukon in sixty hours. The heart of the conversation is what he calls the neuroscience of grit: the brain weighing pain against purpose, grit or quit. His new book, How to Hero, is out November 10.",
+  "company": {
+    "name": "Relativity Space",
+    "text": "Founded in 2015 by Tim Ellis and Jordan Noone and headquartered in Long Beach, California, in a former Boeing aircraft plant of more than a million square feet. Relativity builds rockets by printing them: its Stargate machines, among the largest metal 3D printers ever built, form rocket structures layer by layer instead of assembling them from thousands of separate parts. Its first rocket, Terran 1, flew in March 2023 — about 85 percent 3D-printed by mass, it survived Max-Q, the moment of greatest stress in any launch, proving a printed rocket can hold together; a second-stage fault kept it from orbit, and the company retired the design. Its successor, Terran R, is a partially reusable launcher about 284 feet tall, powered by thirteen methane-burning engines, designed to carry 23,500 kilograms to orbit and land its first stage on a ship at sea. Its first launch is targeted for late 2026 from Cape Canaveral. Company facts only: no prices, no predictions."
+  },
+  "date": "2026-10-21",
+  "slot": "AM",
+  "sources": [
+    {
+      "name": "ESA — MMX factsheet",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/MMX_factsheet"
+    },
+    {
+      "name": "NASA Science — Phobos in depth",
+      "url": "https://science.nasa.gov/mars/moons/phobos/"
+    },
+    {
+      "name": "DLR — Off to the moons of Mars: MMX mission and IDEFIX rover ready for launch (2026)",
+      "url": "https://www.dlr.de/en/latest/news/2026/off-to-the-moons-of-mars-mmx-mission-and-idefix-rover-ready-for-launch"
+    },
+    {
+      "name": "Astronomy — Japan launches sample-return mission to Phobos (Oct 2026)",
+      "url": "https://www.astronomy.com/space-exploration/japan-prepares-to-launch-sample-return-mission-to-phobos/"
+    },
+    {
+      "name": "The Planetary Society — MMX mission page",
+      "url": "https://www.planetary.org/space-missions/mmx"
+    },
+    {
+      "name": "Relativity Space — Terran R",
+      "url": "https://www.relativityspace.com/terran-r"
+    },
+    {
+      "name": "The Joe Rogan Experience — episode 2568, Ross Edgley (Oct 20, 2026; full episode reviewed)"
+    },
+    {
+      "name": "Music: Bach, Goldberg Variations Var. 3 — Kimiko Ishizaka (CC0), Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_J.S._Bach-_-Open-_Goldberg_Variations,_BWV_988_(Piano)_-_04_Variatio_3_a_1_Clav._Canone_all_Unisuono.mp3"
+    },
+    {
+      "name": "Music: Bach, Goldberg Variations Var. 9 — Kimiko Ishizaka (CC0), Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_J.S._Bach-_-Open-_Goldberg_Variations,_BWV_988_(Piano)_-_10_Variatio_9_a_1_Clav._Canone_alla_Terza.mp3"
+    }
+  ],
+  "summary": "No spacecraft has ever landed on Phobos, Mars's larger moon, and no sample has ever come back from anywhere in the Mars system — Japan's MMX mission, launched October 20 on an H3 rocket, is built to do both, plus today's American company: Relativity Space, and The Joe Rogan Experience with Ross Edgley.",
+  "title": "Phobos: A Moon No One Has Ever Landed On, Falling Toward Mars + Relativity Space + Joe Rogan",
+  "youtube_id": "zyH0OaVTw04",
+  "slug": "2026-10-21-am-phobos-a-moon-no-one-has-ever-landed-on-falling-toward-mars"
+}
